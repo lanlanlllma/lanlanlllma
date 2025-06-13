@@ -78,6 +78,9 @@
 <!-- - [LinkedIn](your-link) -->
 <!-- - [个人主页](your-site) -->
 - 📬 Feel free to reach out if you want to collaborate, chat about robotics, or just say hi!
+<!-- mail -->
+- 📧 [Email Me](mailto:lanlanlllma@icloud.com)
+
 
 ---
 
