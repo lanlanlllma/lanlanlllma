@@ -5,6 +5,8 @@
   <b>🚀 HDU Electrical Engineering Student | Robomaster Team Leader | Researcher in Fluorescence Sensing</b>
 </p>
 
+<img src="[https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://pure-svg-countdown.skk.moe/timer?title=%E8%B7%9D%E7%A6%BB26%E8%B5%9B%E5%AD%A3%E7%BB%93%E6%9D%9F%E8%BF%98%E6%9C%89&time=2026-08-20T12%3A00%3A00.000Z&bgColor=%234d6bb1&borderColor=%2366ccff&fontColor=%23e0f1f0#.png)" />
+
 ---
 
 ### ✨ About Me
@@ -25,10 +27,7 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-<br>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
@@ -63,13 +62,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lanlanlllma&show_icons=true&theme=radical" alt="lanlanlllma's GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanlanlllma&theme=radical" alt="GitHub Streak" height="165" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanlanlllma&layout=compact&theme=radical" alt="Top Langs" height="120"/>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lanlanlllma&label=Profile+Views&color=0e75b6&style=flat" alt="lanlanlllma" />
-</p>
+
 
 ---
 
@@ -84,4 +79,7 @@
 
 <p align="center">
   <em>Bridging science and engineering — one experiment at a time!</em>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lanlanlllma&label=Profile+Views&color=0e75b6&style=flat" alt="lanlanlllma" />
 </p>
