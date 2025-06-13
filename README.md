@@ -5,7 +5,7 @@
   <b>🚀 HDU Electrical Engineering Student | Robomaster Team Leader | Researcher in Fluorescence Sensing</b>
 </p>
 
-![倒计时](https://pure-svg-countdown.skk.moe/timer?title=%E8%B7%9D%E7%A6%BB26%E8%B5%9B%E5%AD%A3%E7%BB%93%E6%9D%9F%E8%BF%98%E6%9C%89&time=2026-08-20T12%3A00%3A00.000Z&bgColor=%234d6bb1&borderColor=%2366ccff&fontColor=%23e0f1f0)
+<img src="https://raw.githubusercontent.com/你的用户名/你的仓库名/main/assets/countdown.svg" alt="倒计时"/>
 
 ---
 
