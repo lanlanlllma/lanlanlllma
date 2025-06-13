@@ -5,7 +5,9 @@
   <b>🚀 HDU Electrical Engineering Student | Robomaster Team Leader | Researcher in Fluorescence Sensing</b>
 </p>
 
-<img src="https://raw.githubusercontent.com/lanlanlllma/lanlanlllma/main/assets/countdown.svg" alt="倒计时"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lanlanlllma/lanlanlllma/main/assets/countdown.svg" alt="距离26赛季结束还有倒计时" />
+</p>
 
 ---
 
