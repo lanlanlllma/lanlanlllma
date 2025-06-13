@@ -8,6 +8,10 @@ on:
   schedule:
     - cron: "0 * * * *"  # 每小时更新一次（UTC）
   workflow_dispatch:
+  # 手动触发工作流
+  push:
+    branches:
+      - main  # 在主分支上推送时触发工作流
 
 jobs:
   update-countdown:
