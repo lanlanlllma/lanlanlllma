@@ -5,7 +5,7 @@
   <b>🚀 HDU Electrical Engineering Student | Robomaster Team Leader | Researcher in Fluorescence Sensing</b>
 </p>
 
-<img src="[https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://pure-svg-countdown.skk.moe/timer?title=%E8%B7%9D%E7%A6%BB26%E8%B5%9B%E5%AD%A3%E7%BB%93%E6%9D%9F%E8%BF%98%E6%9C%89&time=2026-08-20T12%3A00%3A00.000Z&bgColor=%234d6bb1&borderColor=%2366ccff&fontColor=%23e0f1f0#.png)" />
+![倒计时](https://pure-svg-countdown.skk.moe/timer?title=%E8%B7%9D%E7%A6%BB26%E8%B5%9B%E5%AD%A3%E7%BB%93%E6%9D%9F%E8%BF%98%E6%9C%89&time=2026-08-20T12%3A00%3A00.000Z&bgColor=%234d6bb1&borderColor=%2366ccff&fontColor=%23e0f1f0)
 
 ---
 
