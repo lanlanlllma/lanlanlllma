@@ -1,5 +1,9 @@
 name: Update Countdown Text
 
+
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 * * * *"  # 每小时更新一次（UTC）
