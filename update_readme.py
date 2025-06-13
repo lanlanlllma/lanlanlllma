@@ -9,7 +9,12 @@ days = diff.days
 hours = diff.seconds // 3600
 minutes = (diff.seconds % 3600) // 60
 
-countdown_str = f"**{days} 天 {hours} 小时 {minutes} 分**\n（目标时间：2026 年 8 月 20 日 12:00 UTC）"
+countdown_str = countdown_str = (
+    f"<div align=\"center\" style=\"background:#f9f9f9;padding:10px;border-radius:8px;\">\\n"
+    f"  <h2 style=\"margin:0;color:#d9534f;\"><strong>{days} 天 {hours} 小时 {minutes} 分</strong></h2>\\n"
+    f"  <p style=\"margin:4px 0 0;\">（目标时间：2026 年 8 月 20 日 12:00 UTC）</p>\\n"
+    "</div>"
+)
 
 # 更新 README 中 countdown 部分
 with open("README.md", "r", encoding="utf-8") as f:
