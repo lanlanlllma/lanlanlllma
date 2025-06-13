@@ -5,7 +5,7 @@
   <b>🚀 HDU Electrical Engineering Student | Robomaster Team Leader | Researcher in Fluorescence Sensing</b>
 </p>
 
-<img src="https://raw.githubusercontent.com/你的用户名/你的仓库名/main/assets/countdown.svg" alt="倒计时"/>
+<img src="https://raw.githubusercontent.com/lanlanlllma/lanlanlllma/main/assets/countdown.svg" alt="倒计时"/>
 
 ---
 
