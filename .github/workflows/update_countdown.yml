@@ -1,29 +1,29 @@
-name: Update Countdown SVG
+name: Update Countdown Text
 
 on:
   schedule:
-    - cron: "0 * * * *"  # 每小时更新一次
+    - cron: "0 * * * *"  # 每小时更新一次（UTC）
   workflow_dispatch:
 
 jobs:
-  build:
+  update-countdown:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - name: Run countdown script
-        run: |
-          python countdown.py
+      - name: Run countdown updater
+        run: python update_readme.py
 
-      - name: Commit and push if changed
+      - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add assets/countdown.svg
-          git diff --quiet || (git commit -m "Update countdown" && git push)
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git diff --cached --quiet || git commit -m "⏱️ 更新倒计时" && git push
