@@ -8,7 +8,7 @@
 ## 🕒 距离 26 赛季结束还有：
 
 <!-- countdown-start -->
-<div align="center" style="background:#f9f9f9;padding:10px;border-radius:8px;">  <h2 style="margin:0;color:#d9534f;"><strong>342 天 16 小时 51 分</strong></h2>  <p style="margin:4px 0 0;">（目标时间：2026 年 8 月 20 日 12:00 UTC）</p></div>
+<div align="center" style="background:#f9f9f9;padding:10px;border-radius:8px;">  <h2 style="margin:0;color:#d9534f;"><strong>342 天 15 小时 46 分</strong></h2>  <p style="margin:4px 0 0;">（目标时间：2026 年 8 月 20 日 12:00 UTC）</p></div>
 <!-- countdown-end -->
 
 ---
